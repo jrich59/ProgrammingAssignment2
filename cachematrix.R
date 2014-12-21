@@ -1,5 +1,5 @@
 ## Functions makeCacheMatrix and cacheSolve work in unison to
-## cache a matrix and the inverse of a atrix, and to compute
+## cache a matrix and the inverse of a matrix, and to compute
 ## the inverse of the matrix passed in.  makeCacheMatrix caches
 ## the results of the inverse and the matrix itself, cacheSolve
 ## computes the inverse of the matrix and stores it in the cache
